@@ -6,11 +6,11 @@
 - Alessandro Santopaolo, 1832994
 - Alessio Tomaselli, 1782241
 
-### Development Environment:
+### Development Environment
 The IDE used is Visual Studio 2017, with OpenGL 2.1 and C/C++ as development language.
 
 
-### Executing application (only for windows):
+### Executing application (only for windows)
 To execute the application enter on
 
 `Project_Executable/`
