@@ -1,0 +1,70 @@
+INTERACTIVE GRAPHICS PROJECTS
+
+DI GIAMMARINO
+SANTOPAOLO
+TOMASELLI
+
+#######################################################
+
+Instructions (lower-case):
+
+press 'y' -> to start and stop simulation;
+press 'w' -> to move close the camera to target;
+press 's' -> to move far the camera to target;
+press 'c' -> to switch collision on or off;
+press 'a' -> to add planets to the simulation;
+press 'x' -> to write solar system state to text file;
+press 'd' -> to decrease dumping coefficient;
+press 'v' -> to disable or enable fog;
+press 'f' -> to increase density of fog;
+press 'r' -> reset the camera to original position;
+press 'i' -> to move the car forward;
+press 'j' -> to move the car on the right;
+press 'l' -> to move the car on the left;
+press 'u' -> to rotate the car counter-clockwise;
+press 'o' -> to rotate the car clockwise;
+press 'n' -> to lock the camera on the car.
+
+#######################################################
+
+Instructions (upper-case):
+
+press 'w' -> to move close the camera to target;
+press 's' -> to move far the camera to target;
+press 'f' -> to activate fly mode.
+
+#######################################################
+
+Instructions (arrows):
+
+press 'arrow-up' -> to move close the camera to target;
+press 'arrow-down' -> to move far the camera to target.
+
+#######################################################
+
+Instructions (mouse):
+
+press 'left-button' and move the mouse -> to move in the space relative to the target;
+press 'right-button' and point a planet -> to lock the camera focus to the planet selected.
+
+#######################################################
+#######################################################
+
+Advanced Features Implemented:
+
+1)  Collision detection, the body with bigger mass absorbe the body with smaller mass; 
+	and increments its own mass with the mass of the body absorbed;
+2)  Trail for body motion represented as line curve;
+3)  Texture of the Sun surface;
+4)  Insert fog in the simulation;
+	4.1) Functionality to increase its density index to make the fog much heavier;
+5)  Menu system provide graphical command structures;
+6)  Selection of specific body in the simulation based on mouse pointer position;
+	6.1) Print out body details in the console once selected;
+	6.2) Change focus of the navigation mechanism to enable relative navigation tracking of the selected body;
+7)  Write current solar system state in a text file, using date and time to make unique name;
+8)  Addition of body is controlled to mantain a set population and performance;
+9)  Dynamically controlled damping of system to ensure that stable energy level are achieved;
+10) Variable simulation time based on calculation progression with multiplication factors;
+11) Rendering of a car using GLPrimitives;
+12) Translation and Rotation of car in the space through user interaction.
