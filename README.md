@@ -1,16 +1,16 @@
 ## Solar System Simulation (Elon Musk Tribute)
 
-**Students:** 
+**Contributors:** 
 
 - Luca Di Giammarino, 1822138
 - Alessandro Santopaolo, 1832994
 - Alessio Tomaselli, 1782241
 
-### Development Environment
-The development environment used is Visual Studio 2017, with OpenGL 2.1 and C/C++ as language
+### Development Environment:
+The IDE used is Visual Studio 2017, with OpenGL 2.1 and C/C++ as development language.
 
 
-### Executing application (for windows)
+### Executing application (only for windows):
 To execute the application enter on
 
 `Project_Executable/`
@@ -19,6 +19,7 @@ and **double-click** on
 
 `InteractiveGraphicsAssignment.exe`
 
+Note that this has been done only for windows since Visual Studio generates only files `.exe`
 
 ### User manual
 
