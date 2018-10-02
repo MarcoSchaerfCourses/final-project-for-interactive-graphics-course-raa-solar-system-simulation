@@ -13,7 +13,7 @@ The development environment used is Visual Studio 2017, with OpenGL 2.1 and C/C+
 ### Executing application (for windows)
 To execute the application enter on
 
-`Interactive_Graphics_Project/Project_Executable/`
+`Project_Executable/`
 
 and **double-click** on 
 
