@@ -10,7 +10,7 @@
 The development environment used is Visual Studio 2017, with OpenGL 2.1 and C/C++ as language
 
 
-###Executing application (for windows)
+### Executing application (for windows)
 To execute the application enter on
 
 `Interactive_Graphics_Project/Project_Executable/`
@@ -20,9 +20,9 @@ and **double-click** on
 `InteractiveGraphicsAssignment.exe`
 
 
-###User manual
+### User manual
 
-#####Instructions (lower-case):
+##### Instructions (lower-case):
 
 - press 'y' -> to start and stop simulation;
 - press 'w' -> to move close the camera to target;
@@ -41,18 +41,18 @@ and **double-click** on
 - press 'o' -> to rotate the car clockwise;
 - press 'n' -> to lock the camera on the car.
 
-#####Instructions (upper-case):
+##### Instructions (upper-case):
 
 - press 'w' -> to move close the camera to target;
 - press 's' -> to move far the camera to target;
 - press 'f' -> to activate fly mode.
 
-#####Instructions (arrows):
+##### Instructions (arrows):
 
 - press 'arrow-up' -> to move close the camera to target;
 - press 'arrow-down' -> to move far the camera to target.
 
-#####Instructions (mouse):
+##### Instructions (mouse):
 
 - press 'left-button' and move the mouse -> to move in the space relative to the target;
 - press 'right-button' and point a planet -> to lock the camera focus to the planet selected.
